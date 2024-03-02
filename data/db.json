@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "my first blog",
+      "body": "why do we use it?\nIt is a long established fact that a reader would be distracted ",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "Opening party",
+      "body": "why do we use it?\n It is a long established fact that a reader would be distracted",
+      "author": "yoshi",
+      "id": "2"
+    },
+    {
+      "id": "a683",
+      "title": "I Love You Sunmi",
+      "body": "so so much and you should know it",
+      "author": "mario"
+    }
+  ]
+}
